@@ -5,6 +5,10 @@ Genius Invokation Code Converter, GICC.
 
 <sup> This project only supports Chinese docs now. English docs will be translated later. </sup>
 
+> **本项目已暂停维护。**  
+> **This project has been suspended.**
+
+
 ## 介绍 <sub>Intro</sub>
 
 本项目旨在为“七圣召唤”的牌组分享码提供多语言的解码与编码的实现程序。这些元程序以算法精炼、易迁移性、低依赖性、高鲁棒性为目标。
@@ -27,12 +31,9 @@ Genius Invokation Code Converter, GICC.
 
 下表列出了目前各语言的解码与编码程序的实现情况。有关它们的 _环境要求、接口定义、用例和其他细节_，请查阅相应目录内的 README 文档。
 
-|  | 解码 | 编码 | 作者 | 首次提交 |
-|:---:|:---:|:---:|:---:|:---:|
-| Python<br>`gicc-py` | √ | √ | Harry Huang | 2023-12-10 |
-| C++<br>`gicc-cpp`  | 编码中 | 编码中 | Harry Huang | / |
-| Java<br>`gicc-java`  | 计划中 | 计划中 | Harry Huang | / |
-| JavaScript<br>`gicc-js`  | 计划中 | 计划中 | Harry Huang | / |
+|                     | 解码 | 编码 |     作者      |     日期     |
+|:-------------------:|:--:|:--:|:-----------:|:----------:|
+| Python<br>`gicc-py` | √  | √  | Harry Huang | 2023-12-10 |
 
 
 ## 牌组码规则 <sub>Decoding Procedure</sub>
